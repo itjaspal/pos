@@ -151,6 +151,46 @@ import { CustomerSearchComponent } from './customer/customer-search/customer-sea
 import { CustomerUpdateComponent } from './customer/customer-update/customer-update.component';
 import { CustomerViewComponent } from './customer/customer-view/customer-view.component';
 import { UserSelectBranchComponent } from './user-select-branch/user-select-branch/user-select-branch.component';
+import { DocCreateComponent } from './master-doc/doc-create/doc-create.component';
+import { DocViewComponent } from './master-doc/doc-view/doc-view.component';
+import { DocUpdateComponent } from './master-doc/doc-update/doc-update.component';
+import { DocSearchComponent } from './master-doc/doc-search/doc-search.component';
+import { DocControlCreateComponent } from './master-doc-control/doc-control-create/doc-control-create.component';
+import { DocControlSearchComponent } from './master-doc-control/doc-control-search/doc-control-search.component';
+import { DocControlViewComponent } from './master-doc-control/doc-control-view/doc-control-view.component';
+import { DocControlUpdateComponent } from './master-doc-control/doc-control-update/doc-control-update.component';
+import { EntityCreateComponent } from './master-entity/entity-create/entity-create.component';
+import { EntitySearchComponent } from './master-entity/entity-search/entity-search.component';
+import { EntityViewComponent } from './master-entity/entity-view/entity-view.component';
+import { EntityUpdateComponent } from './master-entity/entity-update/entity-update.component';
+import { PaymentCreateComponent } from './master-payment/payment-create/payment-create.component';
+import { PaymentSearchComponent } from './master-payment/payment-search/payment-search.component';
+import { PaymentViewComponent } from './master-payment/payment-view/payment-view.component';
+import { PaymentUpdateComponent } from './master-payment/payment-update/payment-update.component';
+import { PosNoCreateComponent } from './master-pos-no/pos-no-create/pos-no-create.component';
+import { PosNoSearchComponent } from './master-pos-no/pos-no-search/pos-no-search.component';
+import { PosNoViewComponent } from './master-pos-no/pos-no-view/pos-no-view.component';
+import { PosNoUpdateComponent } from './master-pos-no/pos-no-update/pos-no-update.component';
+import { ProductCreateComponent } from './master-product/product-create/product-create.component';
+import { ProductSearchComponent } from './master-product/product-search/product-search.component';
+import { ProductViewComponent } from './master-product/product-view/product-view.component';
+import { ProductUpdateComponent } from './master-product/product-update/product-update.component';
+import { ProductNodiscCreateComponent } from './master-product-nodisc/product-nodisc-create/product-nodisc-create.component';
+import { ProductNodiscSearchComponent } from './master-product-nodisc/product-nodisc-search/product-nodisc-search.component';
+import { ProductNodiscViewComponent } from './master-product-nodisc/product-nodisc-view/product-nodisc-view.component';
+import { ProductNodiscUpdateComponent } from './master-product-nodisc/product-nodisc-update/product-nodisc-update.component';
+import { ProductPremiumCreateComponent } from './master-product-premium/product-premium-create/product-premium-create.component';
+import { ProductPremiumSearchComponent } from './master-product-premium/product-premium-search/product-premium-search.component';
+import { ProductPremiumViewComponent } from './master-product-premium/product-premium-view/product-premium-view.component';
+import { ProductPremiumUpdateComponent } from './master-product-premium/product-premium-update/product-premium-update.component';
+import { TaxCreateComponent } from './master-tax/tax-create/tax-create.component';
+import { TaxSearchComponent } from './master-tax/tax-search/tax-search.component';
+import { TaxViewComponent } from './master-tax/tax-view/tax-view.component';
+import { TaxUpdateComponent } from './master-tax/tax-update/tax-update.component';
+import { WarehouseCreateComponent } from './master-warehouse/warehouse-create/warehouse-create.component';
+import { WarehouseSearchComponent } from './master-warehouse/warehouse-search/warehouse-search.component';
+import { WarehouseViewComponent } from './master-warehouse/warehouse-view/warehouse-view.component';
+import { WarehouseUpdateComponent } from './master-warehouse/warehouse-update/warehouse-update.component';
 
 
 
@@ -336,6 +376,46 @@ import { UserSelectBranchComponent } from './user-select-branch/user-select-bran
     CustomerUpdateComponent,
     CustomerViewComponent,
     UserSelectBranchComponent,
+    DocCreateComponent,
+    DocViewComponent,
+    DocUpdateComponent,
+    DocSearchComponent,
+    DocControlCreateComponent,
+    DocControlSearchComponent,
+    DocControlViewComponent,
+    DocControlUpdateComponent,
+    EntityCreateComponent,
+    EntitySearchComponent,
+    EntityViewComponent,
+    EntityUpdateComponent,
+    PaymentCreateComponent,
+    PaymentSearchComponent,
+    PaymentViewComponent,
+    PaymentUpdateComponent,
+    PosNoCreateComponent,
+    PosNoSearchComponent,
+    PosNoViewComponent,
+    PosNoUpdateComponent,
+    ProductCreateComponent,
+    ProductSearchComponent,
+    ProductViewComponent,
+    ProductUpdateComponent,
+    ProductNodiscCreateComponent,
+    ProductNodiscSearchComponent,
+    ProductNodiscViewComponent,
+    ProductNodiscUpdateComponent,
+    ProductPremiumCreateComponent,
+    ProductPremiumSearchComponent,
+    ProductPremiumViewComponent,
+    ProductPremiumUpdateComponent,
+    TaxCreateComponent,
+    TaxSearchComponent,
+    TaxViewComponent,
+    TaxUpdateComponent,
+    WarehouseCreateComponent,
+    WarehouseSearchComponent,
+    WarehouseViewComponent,
+    WarehouseUpdateComponent,
     
 
 
